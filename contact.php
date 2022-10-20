@@ -51,19 +51,19 @@ display:inline-block;
       <div style="background-color: gray;background-color: #9dc5c3;
     background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);" class="card">
         <i class="card-icon far fa-envelope"></i>
-        <p>Vedprakashpandey2022@gmail.com</p>
+        <p>aya497694@gmail.com</p>
       </div>
 
       <div style="background-color: gray;background-color: #9dc5c3;
     background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);" class="card">
         <i class="card-icon fas fa-phone"></i>
-        <p>+91 7721939246</p>
+        <p>01208454587</p>
       </div>
 
       <div style="background-color: gray;background-color: #9dc5c3;
     background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);" class="card">
         <i class="card-icon fas fa-map-marker-alt"></i>
-        <center><p>Ambernath(w)-421505 <br>City: Mumbai<br> State: Maharashtra<br> Country: India</p></center>
+        <center><p>City: Kafer Eldwar<br> Elbehera <br> Country: Egypt</p></center>
       </div>
     </div>
     
